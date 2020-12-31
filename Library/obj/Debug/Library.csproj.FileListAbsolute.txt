@@ -1,0 +1,12 @@
+H:\Aiub files\C#\Final\Library\Library\bin\Debug\Library.exe.config
+H:\Aiub files\C#\Final\Library\Library\bin\Debug\Library.exe
+H:\Aiub files\C#\Final\Library\Library\bin\Debug\Library.pdb
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.Properties.Resources.resources
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.Views.AllBooks.resources
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.Views.HomePage.resources
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.Views.Insert.resources
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.exe
+H:\Aiub files\C#\Final\Library\Library\obj\Debug\Library.pdb
